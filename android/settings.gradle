@@ -1,0 +1,3 @@
+rootProject.name = 'shoutem_ui'
+
+include ':app'
